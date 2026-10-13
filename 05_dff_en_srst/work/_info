@@ -1,0 +1,89 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Usuario/Documents/Maestria/4B CLP/TP_catedra/05_dff_en_srst
+Edff_en_srst
+Z1 w1788778034
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+R0
+Z4 8Fuentes/dff_en_srst.vhd
+Z5 FFuentes/dff_en_srst.vhd
+l0
+L8 1
+VYbXRnKOGX1HYi[FZ1[8oI2
+!s100 YYS0jQRfB96cU@@ibmAL`1
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1791891381
+!i10b 1
+Z8 !s108 1791891381.000000
+Z9 !s90 -reportprogress|300|Fuentes/dff_en_srst.vhd|
+Z10 !s107 Fuentes/dff_en_srst.vhd|
+!i113 1
+Z11 tExplicit 1 CvgOpt 0
+Acomportamiento
+R2
+R3
+DEx4 work 11 dff_en_srst 0 22 YbXRnKOGX1HYi[FZ1[8oI2
+!i122 2
+l19
+L18 14
+V8cKB7<_>5:BzGn:D9XYGh1
+!s100 XT6bW_D5^@2^FGIA3UaIH2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+Etb_dff_en_srst
+R1
+R2
+R3
+!i122 3
+R0
+Z12 8Simulacion/tb_dff_en_srst.vhd
+Z13 FSimulacion/tb_dff_en_srst.vhd
+l0
+L7 1
+V?<B7V<Wdn<H_Be[96Y`Fn0
+!s100 ;j8@JQ7G51SH[B?gg[E^L0
+R6
+32
+R7
+!i10b 1
+R8
+Z14 !s90 -reportprogress|300|Simulacion/tb_dff_en_srst.vhd|
+Z15 !s107 Simulacion/tb_dff_en_srst.vhd|
+!i113 1
+R11
+Asim
+R2
+R3
+Z16 DEx4 work 14 tb_dff_en_srst 0 22 ?<B7V<Wdn<H_Be[96Y`Fn0
+!i122 3
+l26
+Z17 L10 69
+Z18 VcB5Z6V@zgna6n?8dbGlLX3
+Z19 !s100 3J_3_4aBJ4:h_aHQFf_OB0
+R6
+32
+R7
+!i10b 1
+R8
+R14
+R15
+!i113 1
+R11

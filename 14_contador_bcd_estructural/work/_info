@@ -1,0 +1,247 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Usuario/Documents/Maestria/4B CLP/TP_catedra/14_contador_bcd_estructural
+Ecomparador4
+Z1 w1791894947
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+R0
+Z4 8Fuentes/comparador4.vhd
+Z5 FFuentes/comparador4.vhd
+l0
+L4 1
+Vi7<i3oTM;1[1b:<oeJaL@2
+!s100 LX0`X_ebXCnKJ34TJHXWM2
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1791895112
+!i10b 1
+Z8 !s108 1791895112.000000
+Z9 !s90 -reportprogress|300|Fuentes/comparador4.vhd|
+Z10 !s107 Fuentes/comparador4.vhd|
+!i113 1
+Z11 tExplicit 1 CvgOpt 0
+Aflujo_datos
+R2
+R3
+DEx4 work 11 comparador4 0 22 i7<i3oTM;1[1b:<oeJaL@2
+!i122 2
+l13
+L11 10
+VI[>>A>n_:9Fa9Yei<9:Vf2
+!s100 lIFDgmSW;m`aj?HkjZUWY0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+Econtador_bcd_estructural
+Z12 w1791895009
+R2
+R3
+!i122 3
+R0
+Z13 8Fuentes/contador_bcd_estructural.vhd
+Z14 FFuentes/contador_bcd_estructural.vhd
+l0
+L16 1
+VRCZ1]OR_1QM9eF64cLH0A2
+!s100 CV<Ogfof@Ek]c^^TPHNBi1
+R6
+32
+R7
+!i10b 1
+R8
+Z15 !s90 -reportprogress|300|Fuentes/contador_bcd_estructural.vhd|
+Z16 !s107 Fuentes/contador_bcd_estructural.vhd|
+!i113 1
+R11
+Aestructural
+R2
+R3
+DEx4 work 24 contador_bcd_estructural 0 22 RCZ1]OR_1QM9eF64cLH0A2
+!i122 3
+l47
+L25 51
+V5FcH>TXoT6eL8nAndbAW01
+!s100 ALeM?JZKcaPl:NH?9;@eL0
+R6
+32
+R7
+!i10b 1
+R8
+R15
+R16
+!i113 1
+R11
+Edff_en_srst
+Z17 w1788778034
+R2
+R3
+!i122 4
+R0
+Z18 8Fuentes/dff_en_srst.vhd
+Z19 FFuentes/dff_en_srst.vhd
+l0
+L8 1
+VYbXRnKOGX1HYi[FZ1[8oI2
+!s100 YYS0jQRfB96cU@@ibmAL`1
+R6
+32
+R7
+!i10b 1
+R8
+Z20 !s90 -reportprogress|300|Fuentes/dff_en_srst.vhd|
+Z21 !s107 Fuentes/dff_en_srst.vhd|
+!i113 1
+R11
+Acomportamiento
+R2
+R3
+DEx4 work 11 dff_en_srst 0 22 YbXRnKOGX1HYi[FZ1[8oI2
+!i122 4
+l19
+L18 14
+V8cKB7<_>5:BzGn:D9XYGh1
+!s100 XT6bW_D5^@2^FGIA3UaIH2
+R6
+32
+R7
+!i10b 1
+R8
+R20
+R21
+!i113 1
+R11
+Emux2to1
+Z22 w1791894995
+R2
+R3
+!i122 5
+R0
+Z23 8Fuentes/mux2to1.vhd
+Z24 FFuentes/mux2to1.vhd
+l0
+L4 1
+V96nZVT7@ZoXP`gkXaik;]0
+!s100 Tm?k?ZZ0D2RKOnnT33<D02
+R6
+32
+R7
+!i10b 1
+R8
+Z25 !s90 -reportprogress|300|Fuentes/mux2to1.vhd|
+Z26 !s107 Fuentes/mux2to1.vhd|
+!i113 1
+R11
+Aflujo_datos
+R2
+R3
+DEx4 work 7 mux2to1 0 22 96nZVT7@ZoXP`gkXaik;]0
+!i122 5
+l13
+L12 4
+V`34mFfkj5Ef4BMgn51F4I2
+!s100 N>lfY;]1866T<]n8QW5Il3
+R6
+32
+R7
+!i10b 1
+R8
+R25
+R26
+!i113 1
+R11
+Esumador_completo
+R17
+R2
+R3
+!i122 6
+R0
+Z27 8Fuentes/sumador_completo.vhd
+Z28 FFuentes/sumador_completo.vhd
+l0
+L7 1
+VkQZkm_ILKUn3FHIJ>k8jl1
+!s100 hj3dNH7ad00GGA;>b30Pm0
+R6
+32
+Z29 !s110 1791895113
+!i10b 1
+Z30 !s108 1791895113.000000
+Z31 !s90 -reportprogress|300|Fuentes/sumador_completo.vhd|
+Z32 !s107 Fuentes/sumador_completo.vhd|
+!i113 1
+R11
+Aflujo_datos
+R2
+R3
+DEx4 work 16 sumador_completo 0 22 kQZkm_ILKUn3FHIJ>k8jl1
+!i122 6
+l15
+L14 5
+V2UB95E`FIH_4]0HW_AIYC0
+!s100 2MToHmj?X=fPzKV3igIdd2
+R6
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R11
+Etb_contador_bcd_estructural
+R17
+Z33 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R2
+R3
+!i122 7
+R0
+Z34 8Simulacion/tb_contador_bcd_estructural.vhd
+Z35 FSimulacion/tb_contador_bcd_estructural.vhd
+l0
+L8 1
+VK4G7<4DY6:?a];Je?TfbY2
+!s100 <8FblbEgiR9Z^fhXZhLg`1
+R6
+32
+Z36 !s110 1791895160
+!i10b 1
+Z37 !s108 1791895160.000000
+Z38 !s90 -reportprogress|300|Simulacion/tb_contador_bcd_estructural.vhd|
+Z39 !s107 Simulacion/tb_contador_bcd_estructural.vhd|
+!i113 1
+R11
+Asim
+R33
+R2
+R3
+Z40 DEx4 work 27 tb_contador_bcd_estructural 0 22 K4G7<4DY6:?a];Je?TfbY2
+!i122 7
+l27
+Z41 L11 56
+Z42 Vl<ZC?0<VGL_P?TX>b@_<I2
+Z43 !s100 FDDH37eS]lzW_IZ[ca85f1
+R6
+32
+R36
+!i10b 1
+R37
+R38
+R39
+!i113 1
+R11

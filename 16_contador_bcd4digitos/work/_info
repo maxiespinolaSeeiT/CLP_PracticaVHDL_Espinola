@@ -1,0 +1,136 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Usuario/Documents/Maestria/4B CLP/Practica_VHDL/16_contador_bcd
+Econtador_bcd4d
+Z1 w1791897309
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 4
+R0
+Z5 8Fuentes/contador_bcd4d.vhd
+Z6 FFuentes/contador_bcd4d.vhd
+l0
+L19 1
+V@zLTKKe=FA:i[9@JiX;:b3
+!s100 HEgfMl@lz:z2?jj4Y;2n40
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1791897669
+!i10b 1
+Z9 !s108 1791897669.000000
+Z10 !s90 -reportprogress|300|Fuentes/contador_bcd4d.vhd|
+Z11 !s107 Fuentes/contador_bcd4d.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Acomportamiento
+R2
+R3
+R4
+Z13 DEx4 work 14 contador_bcd4d 0 22 @zLTKKe=FA:i[9@JiX;:b3
+!i122 4
+l34
+L29 51
+V<84nindgcma^?n8=4a5CV1
+!s100 cR2k>@ZA^WSDCn8;5@Dog1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Econtador_bcd4d_tb
+Z14 w1791897330
+R2
+R3
+R4
+!i122 3
+R0
+Z15 8Simulacion/tb_contador_bcd4d.vhd
+Z16 FSimulacion/tb_contador_bcd4d.vhd
+l0
+Z17 L15 1
+Vhj2VZaA7HM6:TCD]d[i_Z2
+!s100 TGoa;[h5m^AGb^dE43R=21
+R7
+32
+Z18 !s110 1791897521
+!i10b 1
+Z19 !s108 1791897521.000000
+Z20 !s90 -reportprogress|300|Simulacion/tb_contador_bcd4d.vhd|
+Z21 !s107 Simulacion/tb_contador_bcd4d.vhd|
+!i113 1
+R12
+Asim
+R13
+R2
+R3
+R4
+DEx4 work 17 contador_bcd4d_tb 0 22 hj2VZaA7HM6:TCD]d[i_Z2
+!i122 3
+l38
+Z22 L18 115
+V[aI88bCK^FYVi@g[F<0k`0
+!s100 `VSiT;UneiRg=M?<`NQVP2
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R12
+Etb_contador_bcd4d
+Z23 w1791897650
+R2
+R3
+R4
+!i122 5
+R0
+R15
+R16
+l0
+R17
+VkW@=LOgO8?MbI@A`WPkJY2
+!s100 7iDlH;Gl<8ZOza^Pc>Q`i1
+R7
+32
+R8
+!i10b 1
+R9
+R20
+R21
+!i113 1
+R12
+Asim
+R13
+R2
+R3
+R4
+DEx4 work 17 tb_contador_bcd4d 0 22 kW@=LOgO8?MbI@A`WPkJY2
+!i122 5
+l38
+R22
+VC2K^UJD@e516Q2Cb0ed_m2
+!s100 V@afaEX6OZEjQE9EHlGl63
+R7
+32
+R8
+!i10b 1
+R9
+R20
+R21
+!i113 1
+R12

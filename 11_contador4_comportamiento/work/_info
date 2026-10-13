@@ -1,0 +1,93 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Usuario/Documents/Maestria/4B CLP/TP_catedra/11_contador4_comportamiento
+Econtador4_comportamiento
+Z1 w1788778034
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z5 8Fuentes/contador4_comportamiento.vhd
+Z6 FFuentes/contador4_comportamiento.vhd
+l0
+L9 1
+VJd5U1:XICCG@W`=CfGl9F0
+!s100 G<:6[a;QMQjB>YH<eWHff0
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1791892578
+!i10b 1
+Z9 !s108 1791892578.000000
+Z10 !s90 -reportprogress|300|Fuentes/contador4_comportamiento.vhd|
+Z11 !s107 Fuentes/contador4_comportamiento.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Acomportamiento
+R2
+R3
+R4
+DEx4 work 24 contador4_comportamiento 0 22 Jd5U1:XICCG@W`=CfGl9F0
+!i122 0
+l20
+L18 18
+VMFaiMLQbhDHg3CD3Qm7ER2
+!s100 KlYbo4KUM>:i33UM@0QeK2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Etb_contador4_comportamiento
+R1
+R2
+R3
+R4
+!i122 1
+R0
+Z13 8Simulacion/tb_contador4_comportamiento.vhd
+Z14 FSimulacion/tb_contador4_comportamiento.vhd
+l0
+L8 1
+V0=Q_T@3_UNTSVak9=h@Wl1
+!s100 On?3XHDe;7gk5hRB[^PlL3
+R7
+32
+R8
+!i10b 1
+R9
+Z15 !s90 -reportprogress|300|Simulacion/tb_contador4_comportamiento.vhd|
+!s107 Simulacion/tb_contador4_comportamiento.vhd|
+!i113 1
+R12
+Asim
+R2
+R3
+R4
+DEx4 work 27 tb_contador4_comportamiento 0 22 0=Q_T@3_UNTSVak9=h@Wl1
+!i122 1
+l27
+L11 55
+V0CTX1Z6akYMT1<W7PVUMn0
+!s100 CP``ghYI1fbEFZMo;[A4]1
+R7
+32
+R8
+!i10b 1
+R9
+R15
+Z16 !s107 Simulacion/tb_contador4_comportamiento.vhd|
+!i113 1
+R12

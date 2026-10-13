@@ -1,0 +1,130 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Usuario/Documents/Maestria/4B CLP/TP_catedra/03_sumador_restador4
+Esumador_completo
+Z1 w1788778034
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+R0
+Z4 8Fuentes/sumador_completo.vhd
+Z5 FFuentes/sumador_completo.vhd
+l0
+L7 1
+VkQZkm_ILKUn3FHIJ>k8jl1
+!s100 hj3dNH7ad00GGA;>b30Pm0
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1791896043
+!i10b 1
+Z8 !s108 1791896043.000000
+Z9 !s90 -reportprogress|300|Fuentes/sumador_completo.vhd|
+Z10 !s107 Fuentes/sumador_completo.vhd|
+!i113 1
+Z11 tExplicit 1 CvgOpt 0
+Aflujo_datos
+R2
+R3
+DEx4 work 16 sumador_completo 0 22 kQZkm_ILKUn3FHIJ>k8jl1
+!i122 2
+l15
+L14 5
+V2UB95E`FIH_4]0HW_AIYC0
+!s100 2MToHmj?X=fPzKV3igIdd2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+Esumador_restador4
+Z12 w1791895982
+R2
+R3
+!i122 3
+R0
+Z13 8Fuentes/sumador_restador4.vhd
+Z14 FFuentes/sumador_restador4.vhd
+l0
+L16 1
+VgG@Lki9Rh4o3=BM[cmQL@2
+!s100 <E5bm?X7hX7G_5S^OhLe51
+R6
+32
+R7
+!i10b 1
+R8
+Z15 !s90 -reportprogress|300|Fuentes/sumador_restador4.vhd|
+Z16 !s107 Fuentes/sumador_restador4.vhd|
+!i113 1
+R11
+Aestructural
+R2
+R3
+DEx4 work 17 sumador_restador4 0 22 gG@Lki9Rh4o3=BM[cmQL@2
+!i122 3
+l37
+L25 36
+VMBiBcfEdS0UHd?@4kC?4z1
+!s100 VDaIZmj4>FTQ9YAK`Of:O0
+R6
+32
+R7
+!i10b 1
+R8
+R15
+R16
+!i113 1
+R11
+Etb_sumador_restador4
+R1
+Z17 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R2
+R3
+!i122 4
+R0
+Z18 8Simulacion/tb_sumador_restador4.vhd
+Z19 FSimulacion/tb_sumador_restador4.vhd
+l0
+L8 1
+V=c17H@3f9456]9e6Y58S>2
+!s100 Um9Pf3MY^9GHOE9H9V@gL2
+R6
+32
+R7
+!i10b 1
+R8
+Z20 !s90 -reportprogress|300|Simulacion/tb_sumador_restador4.vhd|
+Z21 !s107 Simulacion/tb_sumador_restador4.vhd|
+!i113 1
+R11
+Asim
+R17
+R2
+R3
+Z22 DEx4 work 20 tb_sumador_restador4 0 22 =c17H@3f9456]9e6Y58S>2
+!i122 4
+l25
+Z23 L11 72
+Z24 VgenJ[:C?Zl2I@CJHV62_<3
+Z25 !s100 3A:OG:NBj7SCQKcjMll711
+R6
+32
+R7
+!i10b 1
+R8
+R20
+R21
+!i113 1
+R11

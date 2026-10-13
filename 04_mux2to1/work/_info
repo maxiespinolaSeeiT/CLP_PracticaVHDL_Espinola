@@ -1,0 +1,89 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Usuario/Documents/Maestria/4B CLP/TP_catedra/04_mux2to1
+Emux2to1
+Z1 w1788778034
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z4 8Fuentes/mux2to1.vhd
+Z5 FFuentes/mux2to1.vhd
+l0
+L7 1
+VBba8LSEK]9C2?5nioY5`Q0
+!s100 gc`KP^DjAbP1l<[YgLLZ<2
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1791891219
+!i10b 1
+Z8 !s108 1791891219.000000
+Z9 !s90 -reportprogress|300|Fuentes/mux2to1.vhd|
+Z10 !s107 Fuentes/mux2to1.vhd|
+!i113 1
+Z11 tExplicit 1 CvgOpt 0
+Aflujo_datos
+R2
+R3
+DEx4 work 7 mux2to1 0 22 Bba8LSEK]9C2?5nioY5`Q0
+!i122 0
+l16
+L15 4
+VYUAYZdC[[d_D5eV[Qa>@P2
+!s100 2@2ca31WCMbTMzFQn5R9R1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+Etb_mux2to1
+R1
+R2
+R3
+!i122 1
+R0
+Z12 8Simulacion/tb_mux2to1.vhd
+Z13 FSimulacion/tb_mux2to1.vhd
+l0
+L7 1
+VHc>]__:YA8H[BU2mMX6H33
+!s100 GM9IE9963CWCMb786P7TP2
+R6
+32
+Z14 !s110 1791891220
+!i10b 1
+Z15 !s108 1791891220.000000
+Z16 !s90 -reportprogress|300|Simulacion/tb_mux2to1.vhd|
+!s107 Simulacion/tb_mux2to1.vhd|
+!i113 1
+R11
+Asim
+R2
+R3
+DEx4 work 10 tb_mux2to1 0 22 Hc>]__:YA8H[BU2mMX6H33
+!i122 1
+l22
+L10 41
+VojC`_i3NaXc@z[Ni_K?8W1
+!s100 Xg=5CB]6h_VA?[OJTfha72
+R6
+32
+R14
+!i10b 1
+R15
+R16
+Z17 !s107 Simulacion/tb_mux2to1.vhd|
+!i113 1
+R11

@@ -1,0 +1,130 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Usuario/Documents/Maestria/4B CLP/TP_catedra/09_barrel_shifter_muxes
+Ebarrel_shifter_muxes
+Z1 w1791895559
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 8
+R0
+Z4 8Fuentes/barrel_shifter_muxes.vhd
+Z5 FFuentes/barrel_shifter_muxes.vhd
+l0
+L27 1
+VBASc00z2l2Q:OKfXI8;[]0
+!s100 I^PA9cA_Sd:e1VM7ldj_Q3
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1791895812
+!i10b 1
+Z8 !s108 1791895812.000000
+Z9 !s90 -reportprogress|300|Fuentes/barrel_shifter_muxes.vhd|
+Z10 !s107 Fuentes/barrel_shifter_muxes.vhd|
+!i113 1
+Z11 tExplicit 1 CvgOpt 0
+Aestructural
+R2
+R3
+DEx4 work 20 barrel_shifter_muxes 0 22 BASc00z2l2Q:OKfXI8;[]0
+!i122 8
+l48
+L35 38
+VgKEUk9SWEBFWe=>DBRlAc1
+!s100 g1m;`5fX=1zE<m?Qk5gYl3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+Emux2to1
+Z12 w1788778034
+R2
+R3
+!i122 9
+R0
+Z13 8Fuentes/mux2to1.vhd
+Z14 FFuentes/mux2to1.vhd
+l0
+L7 1
+VBba8LSEK]9C2?5nioY5`Q0
+!s100 gc`KP^DjAbP1l<[YgLLZ<2
+R6
+32
+R7
+!i10b 1
+R8
+Z15 !s90 -reportprogress|300|Fuentes/mux2to1.vhd|
+Z16 !s107 Fuentes/mux2to1.vhd|
+!i113 1
+R11
+Aflujo_datos
+R2
+R3
+DEx4 work 7 mux2to1 0 22 Bba8LSEK]9C2?5nioY5`Q0
+!i122 9
+l16
+L15 4
+VYUAYZdC[[d_D5eV[Qa>@P2
+!s100 2@2ca31WCMbTMzFQn5R9R1
+R6
+32
+R7
+!i10b 1
+R8
+R15
+R16
+!i113 1
+R11
+Etb_barrel_shifter_muxes
+R12
+Z17 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R2
+R3
+!i122 10
+R0
+Z18 8Simulacion/tb_barrel_shifter_muxes.vhd
+Z19 FSimulacion/tb_barrel_shifter_muxes.vhd
+l0
+L8 1
+V^Egi7R4H3lR34ceDNXk661
+!s100 H0[QjF]^alkPO1kOJ9hA<2
+R6
+32
+Z20 !s110 1791895813
+!i10b 1
+Z21 !s108 1791895813.000000
+Z22 !s90 -reportprogress|300|Simulacion/tb_barrel_shifter_muxes.vhd|
+Z23 !s107 Simulacion/tb_barrel_shifter_muxes.vhd|
+!i113 1
+R11
+Asim
+R17
+R2
+R3
+Z24 DEx4 work 23 tb_barrel_shifter_muxes 0 22 ^Egi7R4H3lR34ceDNXk661
+!i122 10
+l25
+Z25 L11 50
+Z26 VhCbWUPc01hc1f_VN3Qf:d2
+Z27 !s100 ca[8ld1=l[ok:DkE0UT0i0
+R6
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R11

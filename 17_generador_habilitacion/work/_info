@@ -1,0 +1,89 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Usuario/Documents/Maestria/4B CLP/TP_catedra/17_generador_habilitacion
+Egenerador_habilitacion
+Z1 w1788778034
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z4 8Fuentes/generador_habilitacion.vhd
+Z5 FFuentes/generador_habilitacion.vhd
+l0
+L10 1
+Vkdi>JiDm?Ko8TUC?DAAaU1
+!s100 n953LT<cVBHDIO[_gaoz`3
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1791893551
+!i10b 1
+Z8 !s108 1791893551.000000
+Z9 !s90 -reportprogress|300|Fuentes/generador_habilitacion.vhd|
+Z10 !s107 Fuentes/generador_habilitacion.vhd|
+!i113 1
+Z11 tExplicit 1 CvgOpt 0
+Acomportamiento
+R2
+R3
+DEx4 work 22 generador_habilitacion 0 22 kdi>JiDm?Ko8TUC?DAAaU1
+!i122 0
+l24
+L21 24
+V<=^1JnInR1UXNoGXOJZWa1
+!s100 1LNM1JNhYOMzWbb5A@_7m3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+Etb_generador_habilitacion
+R1
+R2
+R3
+!i122 1
+R0
+Z12 8Simulacion/tb_generador_habilitacion.vhd
+Z13 FSimulacion/tb_generador_habilitacion.vhd
+l0
+L9 1
+VRkzJ8?oI46SOP6mUR^EZW0
+!s100 1Fco>G5^1f;6:KPk:WR>V0
+R6
+32
+R7
+!i10b 1
+R8
+Z14 !s90 -reportprogress|300|Simulacion/tb_generador_habilitacion.vhd|
+!s107 Simulacion/tb_generador_habilitacion.vhd|
+!i113 1
+R11
+Asim
+R2
+R3
+DEx4 work 25 tb_generador_habilitacion 0 22 RkzJ8?oI46SOP6mUR^EZW0
+!i122 1
+l32
+L12 62
+V:zHME3CObIhR8n<fUbFJV2
+!s100 X=FEN_=9YW^@483]IVbeO0
+R6
+32
+R7
+!i10b 1
+R8
+R14
+Z15 !s107 Simulacion/tb_generador_habilitacion.vhd|
+!i113 1
+R11

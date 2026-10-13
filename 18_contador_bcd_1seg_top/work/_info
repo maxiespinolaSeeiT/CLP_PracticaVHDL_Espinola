@@ -1,0 +1,171 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Usuario/Documents/Maestria/4B CLP/TP_catedra/18_contador_bcd_1seg_top
+Econtador_bcd_1seg_top
+Z1 w1791894352
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 8
+R0
+Z4 8Fuentes/contador_bcd_1seg_top.vhd
+Z5 FFuentes/contador_bcd_1seg_top.vhd
+l0
+L28 1
+V>Um@XTa1f^Yg@>P=96oLF0
+!s100 1Ho3:1I;6WHGSgE4MEBRH3
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1791894376
+!i10b 1
+Z8 !s108 1791894376.000000
+Z9 !s90 -reportprogress|300|Fuentes/contador_bcd_1seg_top.vhd|
+Z10 !s107 Fuentes/contador_bcd_1seg_top.vhd|
+!i113 1
+Z11 tExplicit 1 CvgOpt 0
+Aestructural
+R2
+R3
+DEx4 work 21 contador_bcd_1seg_top 0 22 >Um@XTa1f^Yg@>P=96oLF0
+!i122 8
+l54
+L40 29
+Vn0GLDcIaDe=g7=lX@TL4k0
+!s100 =69QaEP_[H^3EA2a?F3b21
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+Econtador_bcd_comportamiento
+Z12 w1788778034
+Z13 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R2
+R3
+!i122 7
+R0
+Z14 8Fuentes/contador_bcd_comportamiento.vhd
+Z15 FFuentes/contador_bcd_comportamiento.vhd
+l0
+L9 1
+VOmgDkRCV]Oe`h8hH`:nPS2
+!s100 ?G0P5`hDdi=:Za1=1POOC3
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|Fuentes/contador_bcd_comportamiento.vhd|
+Z17 !s107 Fuentes/contador_bcd_comportamiento.vhd|
+!i113 1
+R11
+Acomportamiento
+R13
+R2
+R3
+DEx4 work 27 contador_bcd_comportamiento 0 22 OmgDkRCV]Oe`h8hH`:nPS2
+!i122 7
+l20
+L18 22
+V4DPi_NH`R?fcGk>NDWb`50
+!s100 56zz[UUH]bWTkR2X;[GCD3
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+Egenerador_habilitacion
+R12
+R2
+R3
+!i122 6
+R0
+Z18 8Fuentes/generador_habilitacion.vhd
+Z19 FFuentes/generador_habilitacion.vhd
+l0
+L10 1
+Vkdi>JiDm?Ko8TUC?DAAaU1
+!s100 n953LT<cVBHDIO[_gaoz`3
+R6
+32
+R7
+!i10b 1
+R8
+Z20 !s90 -reportprogress|300|Fuentes/generador_habilitacion.vhd|
+Z21 !s107 Fuentes/generador_habilitacion.vhd|
+!i113 1
+R11
+Acomportamiento
+R2
+R3
+DEx4 work 22 generador_habilitacion 0 22 kdi>JiDm?Ko8TUC?DAAaU1
+!i122 6
+l24
+L21 24
+V<=^1JnInR1UXNoGXOJZWa1
+!s100 1LNM1JNhYOMzWbb5A@_7m3
+R6
+32
+R7
+!i10b 1
+R8
+R20
+R21
+!i113 1
+R11
+Etb_contador_bcd_1seg_top
+R12
+R13
+R2
+R3
+!i122 3
+R0
+Z22 8Simulacion/tb_contador_bcd_1seg_top.vhd
+Z23 FSimulacion/tb_contador_bcd_1seg_top.vhd
+l0
+L25 1
+Vm<IFT1]HVgZm:Y0Qe[:8D0
+!s100 6]<j=6S1^8mG2Cl`F^^=21
+R6
+32
+Z24 !s110 1791893736
+!i10b 1
+Z25 !s108 1791893736.000000
+Z26 !s90 -reportprogress|300|Simulacion/tb_contador_bcd_1seg_top.vhd|
+Z27 !s107 Simulacion/tb_contador_bcd_1seg_top.vhd|
+!i113 1
+R11
+Asim
+R13
+R2
+R3
+DEx4 work 24 tb_contador_bcd_1seg_top 0 22 m<IFT1]HVgZm:Y0Qe[:8D0
+!i122 3
+l49
+L28 73
+VfYW=J<Z`FdoNhjkB9;^EX0
+!s100 zo4X3l;=2W6f6F]TH6>bn1
+R6
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R11
