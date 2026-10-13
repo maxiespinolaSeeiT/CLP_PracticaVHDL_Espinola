@@ -1,5 +1,9 @@
 # Práctica de VHDL
 
+**Espínola Maximiliano Ariel**
+
+**SIU: e2603**
+
 **Circuitos Lógicos Programables — Especialización en Sistemas Embebidos**
 
 Resolución de la *Guía de VHDL*: 18 circuitos digitales descriptos en VHDL, cada uno verificado mediante un banco de pruebas (testbench) también escrito en VHDL. Cada carpeta contiene el diseño, su testbench y una captura de la simulación.
